@@ -1,4 +1,4 @@
-%query: test_snake(i,i,i)
+%query: test_snake(i,i,i).
 
 /* from Prolog programming contest in Leuven, 1997 */
 
